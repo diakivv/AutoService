@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Configuration;
+using AutoService.DAL.Entities;
 
 namespace AutoService
 {
@@ -6,7 +8,7 @@ namespace AutoService
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
